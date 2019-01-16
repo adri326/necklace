@@ -1,0 +1,3 @@
+[submodule "dependencies/ulid"]
+	path = dependencies/ulid
+	url = https://github.com/ulid/javascript.git
